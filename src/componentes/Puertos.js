@@ -95,7 +95,15 @@ const Puertos = ({db, handleCheck}) => {
                : <p className="p_item"><b className='b_item'>Discharging Arms: </b>NIL</p>}
 
                {/*dolphins_and_frontage*/}
-               {db.dolphins_and_frontage ? <p className="p_item"><b className='b_item'>Dolphins And Frontage: </b>{db.dolphins_and_frontage}</p> : <p className="p_item"><b className='b_item'>Dolphins And Frontage: </b>NIL</p> }
+               {db.dolphins_and_frontage.length > 0 ? 
+                <ul className="ul_item">
+                  <b className='b_item'>Dolphins and frontage: </b>
+                  {db.dolphins_and_frontage.map((e, index) => (
+                    <MostrarInfo key={index} e={e} indice={index} />
+                  ))}
+                </ul>
+               : <p className="p_item"><b className='b_item'>Dolphins and frontage: </b>NIL</p>}
+
 
                {/*working_time*/}
                {db.working_time.length > 0 ? 
