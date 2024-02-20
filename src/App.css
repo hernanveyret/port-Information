@@ -62,7 +62,7 @@ header {
 }
 section {
   max-width: 100%;
-  min-height:80%;
+  min-height: 89vh;
   flex: 1;
 }
 .container {
