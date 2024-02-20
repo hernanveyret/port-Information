@@ -199,7 +199,11 @@
         "item9":"Email: probysa@arnet.com.ar"
       }
           ],
-    "img": []
+    "img": [
+      {
+        "item1":"../img/elevadorSanNicolas-1.jpg"
+      }
+    ]
   },
   {
     "id":2,
@@ -585,7 +589,11 @@
         "item5":"Email: horacio.cailletbois@bunge.com"
       }
     ],
-    "img": []
+    "img": [
+      {
+        "item1":"../img/BungeArgSA_1.jpg"
+      }
+    ]
   },
   {
     "id":5,
@@ -751,7 +759,14 @@
         "item4":"Email Address: cferreyra@serviciosportuarios.com"
       }
     ],
-    "img": []
+    "img": [
+      {
+        "item1":"../img/SeporSA_1.jpg"
+      },
+      {
+        "item2":"../img/SeporSA_2.jpg"
+      }
+    ]
   },
   {
     "id":7,
@@ -867,6 +882,13 @@
         "item4":"Email Address: leonardo.armoa@agunsa.com.ar"
       }
     ],
-    "img": []
+    "img": [
+      {
+        "item1":"../img/siderarSaic_1.jpg"
+      },
+      {
+        "item2":"../img/siderarSaic_2.jpg"
+      }
+    ]
   }
 ]

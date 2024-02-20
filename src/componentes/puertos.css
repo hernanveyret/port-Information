@@ -87,6 +87,7 @@ p {
 .section-img figure {
   width: 30%;
   height: 80%;
+  margin: 0 5px;
 }
 .section-img img {
   width: 100%;
