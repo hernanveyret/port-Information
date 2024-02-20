@@ -60,7 +60,7 @@ header {
   color: white;
   box-shadow: 3px 3px 4px black;
 }
-section {
+.section-main {
   max-width: 100%;
   min-height: 89vh;
   flex: 1;

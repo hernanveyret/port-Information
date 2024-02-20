@@ -35,7 +35,8 @@ const Main = () => {
         <div className='header-div header-izquierdo' ><div className='logo'></div><h1 className="tituloHeader">PORT INFORMATION</h1></div>
         <div className='header-div header-derecho'>Home</div>        
       </header>
-      <section>
+
+      <section className='section-main'>
         <div className="tituloSection" ><h2>Port List:</h2></div>
         <article className="container">
           <ul className="listaPuertos">
