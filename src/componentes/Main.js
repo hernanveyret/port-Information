@@ -32,7 +32,7 @@ const Main = () => {
   return (
     <>
       <header>
-        <div className='header-div header-izquierdo' ><div className='logo'></div><h1 className="tituloHeader">PORTS INFORMATIONS</h1></div>
+        <div className='header-div header-izquierdo' ><div className='logo'></div><h1 className="tituloHeader">PORT INFORMATION</h1></div>
         <div className='header-div header-derecho'>Home</div>        
       </header>
       <section>
