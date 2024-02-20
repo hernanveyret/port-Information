@@ -47,7 +47,7 @@ const Main = () => {
       </section>
       
       <footer>
-        <p>Hernan Luis Veyret</p>
+        <p>Desarrollado por Hernán Luis Veyret - 2024</p>
       </footer>
     </>
   )

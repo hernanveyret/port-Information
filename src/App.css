@@ -81,6 +81,7 @@ footer {
   font-size: 0.80rem;
   position: absolute;
   bottom: 0;
+  color: white;
 }
 @media screen and (max-width: 700px) {
   .tituloHeader {
