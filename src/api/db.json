@@ -1,0 +1,624 @@
+[ 
+  {
+    "id":0,
+    "name_port": "ING. ACEVEDO - Comercial",
+    "owners": "Acindar S.A.",
+    "location": "KM 365,0 right margin of the Paraná de las Palmas River",
+    "storage_capacity":[
+      {
+        "item1":"In this berth is only performed stocking prior ship's arrival and not storage."
+      }
+    ],
+    "cargoes_loaded":"At the present loading",
+    "cargoes_discharged":"Steel products.",
+    "loading_rates":[
+      {"item1":"Steel products: 95 Mtons per hour per gang"}
+    ],
+    "discharging_rates": [
+        {
+          "item1":"steel_products: 125 Mtons per hour per gang"          
+        }
+                        ],
+    "depth_alongside":"Maximum permissible sailing draft authorized by coastguard / Today is 9,02 Mts",
+    "air_draft":"N/A",
+    "draft_restriction":[
+      {
+        "item1":"Maximum draft issued daily by Coast Guard - Depending on Emilio Mitre"
+      },
+      {
+        "item2":"Chanel restrictions (Beam 32,50 - Length 230,00 mts)"
+      }
+    ],
+    "loading_arms":[
+      {
+        "item1":"The Loading operations are performed by using shore's  or ship's gears."
+      },
+      {
+        "item2":"There are 2x12 ton travelling cranes at the rear of wharf."
+      }
+    ],
+    "discharging_arms":[],
+    "dolphins_and_frontage":"The berth offers a berthing frontage of 110,0 mts. Wide: 20,0 mtrs.",
+    "working_time":[
+      {
+        "item1":"The normal working time is from Monday to Friday from 0700 hs to 1900 hs."
+      },
+      {
+        "item2":"The remaining times are considered as overtime, and is on receivers/shippers account."
+      },
+      {
+        "item3":"The usual working time is around- the-clock & many times, including hollidays."
+      }
+    ],
+    "port_expenses":[],
+    "servicies":[],
+    "observations":[
+      {
+        "item1":"Official figures for the discharge of ores are calculated via Draft Survey."
+      },
+      {
+        "item2":"Fresh water supply available / Free of charge"
+      },
+      {
+        "item3":"Bunkers supply not available."
+      },
+      {
+        "item4":"Garbage disposal available."
+      }
+    ],
+    "address": "Ruta provincial Nº 21km 246 - Villa Constitucion - Santa Fe",
+    "location_coord":"",  
+    "opip": [
+        {
+          "item1":"Name: PROBYPSA "
+        },
+        {
+          "item2": "Phone Nr: 54 9 336 4422747"
+        },
+        {
+          "item3":"Port contacts: Mr. Paolini"
+        },
+        {
+          "item4":"Phone Nr: 54 9 336 15 4526361"
+        },
+        {
+          "item5":"Port contacts: Mr. Felix Colacilli"
+        },
+        {
+          "item6":"Phone Nr: 54 9 336 15 4411 749"
+        },
+        {
+          "item7":"Port contacts: Mr. Oscar Correa"
+        },
+        {
+          "item8":"Phone Nr: 54 9 336 15 4411309"
+        },
+        {
+          "item9":"Email: probysa@arnet.com.ar"
+        }
+            ],
+    "img": [
+      {
+        "item1":"../img/acindarComercial_1.jpg"
+      }
+    ]
+  },
+  {
+    "id":1,
+    "name_port": "ING. ACEVEDO - Mineral",
+    "owners": "Acindar S.A.",
+    "location": "KM 364 right margin of the Paraná de las Palmas River",
+    "storage_capacity":[],
+    "cargoes_loaded":"",
+    "cargoes_discharged":"At the present: Iron one.",
+    "loading_rates":[],
+    "discharging_rates": [
+        {
+          "item1":"Iron ore: 420 Mtons per hour per gang"
+        },
+        {
+          "item2": "steel_products:  Steel products  125  Mtons per hour per gang"
+        }
+                        ],
+    "depth_alongside":"9,72 mts",
+    "air_draft":"14 mtrs. ",
+    "draft_restriction":[],
+    "loading_arms":[],
+    "discharging_arms":[
+      {
+        "item1":"The wharf  is fitted with overhead travelling grab fitted-crane."
+      }
+    ],
+    "dolphins_and_frontage":"The berth offers a berthing frontage of 160,0 mts. Wide: 20,0 mtrs.",
+    "working_time":[
+      {
+        "item1":"The normal working time is from Monday to Friday from 0700 hs to 1900 hs."
+      },
+      {
+        "item2":"The remaining times are considered as overtime, and is on receivers account."
+      },
+      {
+        "item3":"The usual working time is around- the-clock & many times, including hollidays."
+      }
+    ],
+    "port_expenses":[],
+    "servicies":[],
+    "observations":[
+      {
+        "item1":"Official figures for the discharge of ores are calculated via Draft Survey."
+      },
+      {
+        "item2":"Fresh water supply available. Non drinking (With custom expenses)"
+      },
+      {
+        "item3":"Bunkers supply. (Available only by barge, Not simultaneous with operations)"
+      },
+      {
+        "item4":"Garbage disposal available."
+      },
+      {
+        "item5":"Light dues."
+      }
+    ],
+    "address": "Ruta provincial Nº 21km 246 - Villa Constitucion - Santa Fe",
+    "location_coord":"",  
+    "opip": [
+      {
+        "item1":"Name: PROBYPSA "
+      },
+      {
+        "item2": "Phone Nr: 54 9 336 4422747 "
+      },
+      {
+        "item3":"Port contacts: Mr. Paolini"
+      },
+      {
+        "item4":"Phone Nr: 54 9 336 15 4526361"
+      },
+      {
+        "item5":"Port contacts: Mr. Felix Colacilli"
+      },
+      {
+        "item6":"Phone Nr: 54 9 336 15 4411 749"
+      },
+      {
+        "item7":"Port contacts: Mr. Oscar Correa"
+      },
+      {
+        "item8":"Phone Nr: 54 9 336 15 4411309"
+      },
+      {
+        "item9":"Email: probysa@arnet.com.ar"
+      }
+          ],
+    "img": []
+  },
+  {
+    "id":2,
+    "name_port": "ELEVATOR",
+    "owners": "Delegación Portuaria Bonaerence.",
+    "location": "KM 352,0 right margin of the Paraná de las Palmas River",
+    "storage_capacity":[
+      {
+        "item1":"Oils 33.000 M3"
+      },
+      {
+        "item2":"Grain"
+      }
+    ],
+    "cargoes_loaded":"Oils / Grains / Ethanol",
+    "cargoes_discharged":"",
+    "loading_rates":[
+      {
+        "item1":"Oils: 300 / 400 Mtons per hour - 1800/2400 Mtons per shift of six hrs"
+      },
+      {
+        "item2":"Grains: 200/300 Mtons per hour - 1200/1800 Mtons per shift of six hrs"
+      },
+      {
+        "item3":"Ethanol: 220 Mtons per hour - 1320 Mtons per shift of six hrs"
+      }
+    ],
+    "discharging_rates": [
+        {
+          "item1":"Oils: 300 / 400 Mtons per hour - 1800/2400 Mtons per shift of six hrs"
+        }
+                        ],
+    "depth_alongside":"Maximum daily permissible sailing draft authorized by Coastguard",
+    "air_draft":"N/A",
+    "draft_restriction":[
+      {
+        "item1":"Maximum draft recommended for sailing 34min 00sec - Depending on Emilio Mitre"
+      },
+      {
+        "item2":"Chanel restrictions (Beam 32,50 - Length 230,00 mts)."
+      }
+    ],
+    "loading_arms":[
+      {
+        "item1":"1 line by 6 or 8 inches (liquid)"
+      },
+      {
+        "item2":"2 shore gangs ( grains)"
+      }
+    ],
+    "discharging_arms":[
+      {
+        "item1":"1 line by 6 or 8 inches  (liquid)"
+      }
+    ],
+    "dolphins_and_frontage":"The berth offers a berthing frontage of 537,20 meters afforded by 19 bites. Wide: 40 meters.",
+    "working_time":[
+      {
+        "item1":"The normal working time is from Monday to Friday from 0700 hs to 1900 hs."
+      },
+      {
+        "item2":"The remaining times are considered as overtime, and is on receivers/shippers account."
+      },
+      {
+        "item3":"The usual working time is around- the-clock & many times, including hollidays."
+      }
+    ],
+    "port_expenses":[
+      {
+        "item1":"Port & Light dues."
+      }
+    ],
+    "servicies":[
+      {
+        "item1":"Headtally cleark  and watchmenservices compulsory."
+      },
+      {
+        "item2":"Mooring maneuvers with two launch boats"
+      },
+      {
+        "item3":"For Vessel's with 200 mts of length or more need one tugboat for berthing maneuvers"
+      }
+    ],
+    "observations":[
+      {
+        "item1":"Bunkers supply by truck or barge."
+      },
+      {
+        "item2":"-Garbage disposal available."
+      },
+      {
+        "item3":"Fresh water available. (With cost)"
+      }
+    ],
+    "address": "Avenida Rivadavia y Coronel Bogado - San Nicolas -  Buenos Aires - Argentina.",
+    "location_coord":"",  
+    "opip": [
+      {
+        "item1":"Name: PROBYPSA"
+      },
+      {
+        "item2":"Phone Nr: 54 336 4422747"
+      },
+      {
+        "item3":"Port contacts: Mr. Paulini"
+      },
+      {
+        "item4":"Phone Nr: 54 9 336 154418 973"
+      },
+      {
+        "item5":"Port contacts: Mr. Felix Colacilli"
+      },
+      {
+        "item6":"Phone Nr: 54 9 336 154411 749"
+      },
+      {
+        "item7":"Port contacts: Mr. Oscar Correa"
+      },
+      {
+        "item8":"Phone Nr: 54 9 336 15 4411309"
+      },
+      {
+        "item9":"Email: probysa@arnet.com.ar"
+      }
+    ],
+    "img": [
+      {
+        "item1":"../img/elevadorSanNicolas-1.jpg"
+      }
+    ]
+  },
+  {
+    "id":3,
+    "name_port": "PUERTO NUEVO",
+    "owners": "Delegación Portuaria Bonaerence.",
+    "location": "KM 352,0 right margin of the Paraná de las Palmas River",
+    "storage_capacity":[
+      {
+        "item1":"Grain capacity: 20.000 mt"
+      },
+      {
+        "item2":"Iron ore Capacity: 450.000 mt"
+      },
+      {
+        "item3":"Liquid fertilizers: 26.900 mt"
+      }
+    ],
+    "cargoes_loaded":"Iron ore, Manganese ore &  grains",
+    "cargoes_discharged":"Steel products (plates, coils), fertilizers, iron ore, clinker , coal , sleepers & uan",
+    "loading_rates":[
+      {
+        "item1":"Grains: 420  Mtons per hour per gang - 2520 Mtons per shift of six hrs"
+      },
+      {
+        "item2":"Iron ore: 625 Mtons per hour per gang - 3750 Mtons per shift of six hrs"
+      }
+    ],
+    "discharging_rates": [
+        {
+          "item1":"Clinker:130 Mtons per hour per gang - 780 Mtons per shift of six hrs"
+        },
+        {
+          "item2":"Fertilizers: 125 Mtons per hour per gang - 750 Mtons per shift of six hrs"
+        },
+        {
+          "item3":"Iron ore: 150 Mtons per hour per gang - 900 Mtons per shift of six hrs"
+        },
+        {
+          "item4":"Steel products: 180 Mtons per hour per gang - 1080 Mtons per shift of six hrs"
+        },
+        {
+          "item5":"Sleepers: 100 Mtons per hour per gang - 600 Mtons per shift of six hrs"
+        },
+        {
+          "item6":"Uan: 1000 Mtons per hour / Hose of 6 inches - 6000 Mtons per shift of six hrs"
+        },
+        {
+          "item7":"Coal: 150 Mtons per hour per gang - 900 Mtons per shift of six hrs"
+        }
+                        ],
+    "depth_alongside":"As per daily permissible sailing draft",
+    "air_draft":"Subject to type of operation / For loading Iron ore aprox 15 Mts",
+    "draft_restriction":[
+      {
+        "item1":"Maximum draft recommended for sailing 34min 00sec  Depending on Emilio Mitre"
+      },
+      {
+        "item2":"Chanel restrictions (Beam 32,50 - Length 230,00 mts)."
+      }
+    ],
+    "loading_arms":[
+      {
+        "item1":"By using shore's or ship's gears (Steel products, fertilizers)."
+      },
+      {
+        "item2":"There are two shore cranes og 20-27 SWL available only on the north site of the berth – with grabs of 1-10,5 cbm capacity."
+      },
+      {
+        "item3":"Travelling loading/unloading shore crane, hopper and belt system (Minerals)."
+      },
+      {
+        "item4":"Portable conveyor belts (Grains)"
+      },
+      {
+        "item5":"One shiploader for loading Iron Ore"
+      }
+    ],
+    "discharging_arms":[
+      {
+        "item1":"By using shore's / ship's gears. Generally by two gangs"
+      },
+      {
+        "item2":"Two mobiles cranes 7-30 ton SWL."
+      }
+    ],
+    "dolphins_and_frontage":"The berth offers a berthing frontage of 537,20 meters afforded by 19 bites. Wide: 40 meters.",
+    "working_time":[
+      {
+        "item1":"The normal working time is from Monday to Friday from 0700 hs to 1900 hs."
+      },
+      {
+        "item2":"The remaining times are considered as overtime, and is on receivers/shippers account."
+      },
+      {
+        "item3":"The usual working time is around- the-clock & many times, including hollidays."
+      }
+    ],
+    "port_expenses":[
+      {
+        "item1":"-Port & Light dues."
+      }
+    ],
+    "servicies":[
+      {
+        "item1":"Headtally cleark  and watchmenservices compulsory."
+      },
+      {
+        "item2":"Mooring maneuvers with two launch boats"
+      },
+      {
+        "item3":"Vessels with a LOA of 200 mts or more must performe berthing maneuvers with one tug boat and with daylight only."
+      }
+    ],
+    "observations":[
+      {
+        "item1":"-Bunkers supply by truck or barge (Could be simultaneously done with discharing Operations only if this doesn´t interrup operations)"
+      },
+      {
+        "item2":"-Garbage disposal available."
+      },
+      {
+        "item3":"-Fresh water available. (With cost)"
+      },
+      {
+        "item4":"-Electricity available."
+      },
+      {
+        "item5":"-Density water: 0.99"
+      }
+    ],
+    "address": "Avenida Rivadavia y Coronel Bogado - San Nicolas -  Buenos Aires - Argentina.",
+    "location_coord":"",  
+    "opip": [
+      {
+        "item1":"Name: PROBYPSA"
+      },
+      {
+        "item2":"Phone Nr: 54 336 4422747"
+      },
+      {
+        "item3":"Port contacts: Mr. Paulini"
+      },
+      {
+        "item4":"Phone Nr: 54 9 336 154418 973"
+      },
+      {
+        "item5":"Port contacts: Mr. Felix Calacili"
+      },
+      {
+        "item6":"Phone Nr: 54 9 336 154411 749"
+      },
+      {
+        "item7":"Port contacts: Mr. Oscar Correa"
+      },
+      {
+        "item8":"Phone Nr: 54 9 336 15 4411309"
+      },
+      {
+        "item9":"Email: proteccion@probypsa.com.ar"
+      }
+    ],
+    "img": []
+  },
+  {
+    "id":4,
+    "name_port": "BUNGE S.A. - Elevador",
+    "owners": "Bunge Arg. S.A.",
+    "location": "KM 330,0 right margin of the Paraná de las Palmas River",
+    "storage_capacity":[
+      {
+        "item1":"Grain capacity: 280.000 mt"
+      }
+    ],
+    "cargoes_loaded":"At the present loading: Grains / Fertilizers / Oils",
+    "cargoes_discharged":"",
+    "loading_rates":[
+      {
+        "item1":"Grains: 1.500 Mtons per hour per gang"
+      },
+      {
+        "item2":"Fertilizers: 1.800 Mtons per shift of six hours"
+      },
+      {
+        "item3":"Oils: 2.500 Mtons per shift of six hours "
+      }
+    ],
+    "discharging_rates": [],
+    "depth_alongside":"Maximum permissible sailing draft authorized by coastguard / 11,59 Mts",
+    "air_draft":"N/A",
+    "draft_restriction":[
+      {
+        "item1":"Maximum draft issued daily by Coast Guard - Depending on Emilio Mitre"
+      },
+      {
+        "item2":"Chanel restrictions (Beam 32,50 - Length 230,00 mts)."
+      }
+    ],
+    "loading_arms":[],
+    "discharging_arms":[],
+    "dolphins_and_frontage":"The berth offers a berthing frontage of 165,0 meters afforded by 7 bites. Wide: 34,7 meters.",
+    "working_time":[
+      {
+        "item1":"The normal working time is from Monday to Friday from 0700 hs to 1900 hs."
+      },
+      {
+        "item2":"The remaining times are considered as overtime, and is on receivers/shippers account."
+      },
+      {
+        "item3":"The usual working time is around- the-clock & many times, including hollidays."
+      }
+    ],
+    "port_expenses":[],
+    "servicies":[],
+    "observations":[
+      {
+        "item1":"Bunkers not available.-"
+      },
+      {
+        "item2":"Garbage & slop disposal not available."
+      },
+      {
+        "item3":"Fresh water available."
+      }
+    ],
+    "address": "Camino de la Costa km 4,7 - Ramallo -  Buenos Aires.",
+    "location_coord":"",  
+    "opip": [
+      {
+        "item1":"Phone Nr: 54 336 4423076"
+      },
+      {
+        "item2":"Port contacts: Mr. Hernan Ochandorena"
+      },
+      {
+        "item3":"Port contacts: Mr.Paolo Pavoni "
+      },
+      {
+        "item4":"Email: hernan.ochandorena@bunge.com"
+      },
+      {
+        "item5":"Email: horacio.cailletbois@bunge.com"
+      }
+    ],
+    "img": []
+  },
+  {
+    "id":5,
+    "name_port": "BUNGE S.A.",
+    "owners": "Bunge Arg. S.A.",
+    "location": "KM 330,0 right margin of the Paraná de las Palmas River",
+    "storage_capacity":[
+      {
+        "item1":"Fertilizers: 100.000 mt"
+      }
+    ],
+    "cargoes_loaded":"",
+    "cargoes_discharged":"At the present discharging: Fertilizers",
+    "loading_rates":[],
+    "discharging_rates": [],
+    "depth_alongside":"",
+    "air_draft":"",
+    "draft_restriction":[],
+    "loading_arms":[],
+    "discharging_arms":[],
+    "dolphins_and_frontage":"",
+    "working_time":[],
+    "port_expenses":[],
+    "servicies":[],
+    "observations":[],
+    "address": "",
+    "location_coord":"",  
+    "opip": [],
+    "img": []
+  },
+  {
+    "id":6,
+    "name_port": "SERVICIOS PORTUARIOS I&II",
+    "owners": "",
+    "location": "",
+    "storage_capacity":[],
+    "cargoes_loaded":"",
+    "cargoes_discharged":"",
+    "loading_rates":[],
+    "discharging_rates": [],
+    "depth_alongside":"",
+    "air_draft":"",
+    "draft_restriction":[],
+    "loading_arms":[],
+    "discharging_arms":[],
+    "dolphins_and_frontage":"",
+    "working_time":[],
+    "port_expenses":[],
+    "servicies":[],
+    "observations":[],
+    "address": "",
+    "location_coord":"",  
+    "opip": [],
+    "img": []
+  }
+]

@@ -1,0 +1,94 @@
+
+.tituloPuerto {
+  background-color: #009B77;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3px;
+  color: white;
+  font-weight: 700;
+  border: thin solid white;
+}
+.tituloPuerto p {
+  margin-left: 10px;
+}
+.tituloPuerto input {
+  margin-right: 10px;
+}
+input[type="checkbox"]{
+  display: none;
+}
+.article-puertos {
+  display: none;
+  transition: 1s;
+}
+.mostrar {
+  transition: 1s;
+  display: block;
+}
+.ocultar {
+  transition: 1s;
+  display: none;
+}
+.listaPuertos{
+  list-style: none;;
+}
+p {
+  margin-left: 10px;
+}
+.imgFlechaAbajo {
+  width: 30px;
+  height: 30px;
+  background-image: url("../icons/flechaAbajo.png");
+  background-repeat: no-repeat;
+  background-size: cover;  
+  font-size: 10px;
+  color: transparent;
+  margin-right: 10px;
+  display: flex;
+}
+.imgFlechaArriba {
+  width: 30px;
+  height: 30px;
+  background-image: url("../icons/flechaArriba.png");
+  background-repeat: no-repeat;
+  background-size: cover;  
+  font-size: 10px;
+  color: transparent;
+  margin-right: 10px;
+  display: flex;
+}
+.ul_item {
+  margin-left: 10px;
+}
+.li_item {
+  margin-left: 30px;
+  font-family: roboto;
+  font-weight: 600;
+  font-size: 0.80rem;
+}
+.p_item {
+  font-family: roboto;
+  font-weight: 600;
+  font-size: 0.80rem;
+}
+.b_item {
+  font-size: 1rem;
+  font-family: 'Oswald', sans-serif;
+  
+}
+.section-img {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section-img figure {
+  width: 30%;
+  height: 80%;
+}
+.section-img img {
+  width: 100%;
+  margin: 10px 10px;
+}
