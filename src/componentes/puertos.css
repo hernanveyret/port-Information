@@ -8,6 +8,9 @@
   color: white;
   font-weight: 700;
   border: thin solid white;
+  position: sticky;
+  top: 48px;
+  z-index: 10;
 }
 .tituloPuerto p {
   margin-left: 10px;

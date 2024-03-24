@@ -23,6 +23,7 @@ header {
   background-color: #14261C;
   position: sticky;
   top:0;
+  z-index: 20;
 }
 .header-div {
   width: 50%;
